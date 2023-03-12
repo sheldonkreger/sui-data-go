@@ -1,0 +1,12 @@
+{
+    "packageId": "0x0000000000000000000000000000000000000002",
+    "transactionModule": "devnet_nft",
+    "sender": "0x70613f4f17ae1363f7a7e7251daab5c5b06f68c1",
+    "type": "0x2::devnet_nft::MintNFTEvent",
+    "fields": {
+        "creator": "0x70613f4f17ae1363f7a7e7251daab5c5b06f68c1",
+        "name": "Example NFT",
+        "object_id": "0x497913a47dc0028a85f24c70d825991b71c60001"
+    },
+    "bcs": "SXkTpH3AAoqF8kxw2CWZG3HGAAFwYT9PF64TY/en5yUdqrXFsG9owQtFeGFtcGxlIE5GVA=="
+}

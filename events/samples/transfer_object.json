@@ -1,0 +1,11 @@
+{
+    "packageId": "0x0000000000000000000000000000000000000002",
+    "transactionModule": "native",
+    "sender": "0x70613f4f17ae1363f7a7e7251daab5c5b06f68c1",
+    "recipient": {
+        "AddressOwner": "0x741a9a7ea380aed286341fcf16176c8653feb667"
+    },
+    "objectId": "0x591fbb00a6c9676186cb44402040a8350520cbe9",
+    "version": 1,
+    "type": "Coin"
+}
